@@ -1,4 +1,4 @@
-# Hi, I'm Helio 👋
+# Hi, I'm Helio :)
 
 Data Analyst with a strong statistical foundation and growing focus on
 machine learning and data science.
@@ -27,19 +27,19 @@ and data science, where statistics and machine learning play a key role.
 
 ## Featured Projects
 
-### 📊 Statistical Modeling & Machine Learning
+###  Statistical Modeling & Machine Learning
 - Logistic regression and classification models
 - Model evaluation and interpretation  
-➡️ Repository: [Statistical & ML Projects](link)
+   Repository: [Statistical & ML Projects](link)
 
-### 🗄 SQL & Databases
+###  SQL & Databases
 - Relational design and advanced queries
 - Data extraction for analytics  
-➡️ Repository: [SQL Projects](link)
+   Repository: [SQL Projects](link)
 
-### ⚙ Automation & Reproducible Processes
+###  Automation & Reproducible Processes
 - Excel VBA workflows and data pipelines  
-➡️ Repository: [Automation Projects](link)
+ Repository: [Automation Projects](link)
 
 ## What I'm Looking For
 
