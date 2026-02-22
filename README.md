@@ -30,7 +30,7 @@ and data science, where statistics and machine learning play a key role.
 ###  Statistical Modeling & Machine Learning
 - Logistic regression and classification models
 - Model evaluation and interpretation  
-   Repository: [Statistical & ML Projects](link)
+   Repository: [Statistical & ML Projects](https://github.com/helio-yo/ordinal-multiclass-classification/tree/main)
 
 ###  SQL & Databases
 - Relational design and advanced queries
