@@ -35,7 +35,7 @@ and data science, where statistics and machine learning play a key role.
 ###  SQL & Databases
 - Relational design and advanced queries
 - Data extraction for analytics  
-   Repository: [SQL Projects](link)
+   Repository: [SQL Projects](https://github.com/helio-yo/Intercambios-Sin-Fronteras-Database-System)
 
 ###  Automation & Reproducible Processes
 - Excel VBA workflows and data pipelines  
