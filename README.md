@@ -37,9 +37,6 @@ and data science, where statistics and machine learning play a key role.
 - Data extraction for analytics  
    Repository: [SQL Projects](https://github.com/helio-yo/Intercambios-Sin-Fronteras-Database-System)
 
-###  Automation & Reproducible Processes
-- Excel VBA workflows and data pipelines  
- Repository: [Automation Projects](link)
 
 ## What I'm Looking For
 
