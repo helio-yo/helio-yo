@@ -50,5 +50,5 @@ developing my skills in statistics and machine learning.
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/ismael-ruiz-carbajal-0720713a5
+- LinkedIn: www.linkedin.com/in/ismael-ruiz-carbajal-data
 - Email: ismahelio@ciencias.unam.mx
